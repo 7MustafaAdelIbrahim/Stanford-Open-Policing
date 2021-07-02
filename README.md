@@ -9,8 +9,7 @@ They’ve already gathered over ***200 million records*** from dozens of state a
 
 but we'll be focusing on data from the state of ***Rhode Island***. 
 
-For size reasons, some of the columns and rows have been removed, but you can download the full dataset for any of the 31 states from the project's website. 
-[linke](https://openpolicing.stanford.edu/)
+For size reasons, some of the columns and rows have been removed, but you can download the full dataset for any of the 31 states from [the project's website](https://openpolicing.stanford.edu/)
 
 I tried to analyze the dataset and find battery, draw larger conclusions about the police officers activities
 By answering some questions.
