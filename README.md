@@ -12,27 +12,41 @@ I tried to analyze the dataset and find battery, draw larger conclusions about t
 By answering some questions.
           
 Do the genders or race commit different violations?
+
 Does gender or race  affect who gets a ticket for speeding?
+
 Does gender or race affect whose vehicle is searched?
+
 Calculating the search rate and Comparing search rates by gender.
+
 Comparing speeding outcomes by gender and race.
+
 Does gender and race affect who is frisked during a search?
+
 Does gender and raceaffect who is frisked during a search?
           
- Examining the search types.
+Examining the search types.
+
 Calculating the inventory rate
           
- Counting protective frisks.
+Counting protective frisks.
+
 During a vehicle search, 
+
 the police officer may pat down the driver to check if they have a weapon. This is known as a "protective frisk.
+
 Comparing frisk rates by gender.
           
 Does time of day affect arrest rate?
+
 Calculating the hourly arrest rate.
+
 Are drug-related stops on the rise?
+
 Comparing drug and search rates.
           
 What violations are caught in each district?
+
 Tallying violations by district
+
 How long might you be stopped for a violation?
-          
