@@ -7,9 +7,20 @@ The Stanford Open Policing Project, are an interdisciplinary team of researchers
 For size reasons, some of the columns and rows have been removed, but you can download the full dataset for any of the 31 states from [the project's website](https://openpolicing.stanford.edu/)
 
 ***50,000*** americans are pulled over by police everyday.
+There’re many different interactions with police that have ended tragically, such as ***the arrest of Sandra bland*** in Texas in 2015 that ended up with her dying in jail, and the Minnesota stop with ***falando Castillo*** where he was shot and killed, those were really egregious incidents.
+
 
 I tried to analyze the dataset and find battery, draw larger conclusions about the police officers activities
-By answering some questions.
+we found that black and Hispanic drivers are ticketed searched and arrested at ‎higher rates than white drivers even after controlling for location age gender in here the pattern is widespread occurring  throughout the country 
+
+The black drivers were more likely to be charged with the drug  related offenses ‎prior to legalization  the policy changed mitigated racial  disparity.
+what's interesting is that the  number of searches also dramatically  decline in ‎both states in part this is  because legalizing recreational  marijuana removed a common reason for  conducting searches.
+
+these differences highlighted asperity in police practices  in and of themselves  ‎the statistics do indicate racial discrimination.   
+for example that  officers searched white drivers of  there's a 10% chance or ‎greater that  they can contraband but there's black  drivers there's a 5% chance or greater  this is going to be emitted at  discrimination
+
+
+We have tried to answer some questions, such as...
           
 Do the genders or race commit different violations?
 Does gender or race  affect who gets a ticket for speeding?
